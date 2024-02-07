@@ -37,10 +37,10 @@ public class OneOfEachStats {
 				    //System.out.print("g ");
 			    }
 			    count++;
-
+			}
 			//System.out.println();
 		    //System.out.println(count + " children.");
-		    }
+
 
 			sumNumberOfChildren = sumNumberOfChildren + count; 
 
@@ -52,6 +52,7 @@ public class OneOfEachStats {
 			    } else {
 			        numberOf4OrMoreChildren++;
 			    }
+			}
 		}
 
 
@@ -88,4 +89,4 @@ public class OneOfEachStats {
 		  
 	}
 }
-}
+
