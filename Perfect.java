@@ -16,7 +16,7 @@ public class Perfect {
 		}
 
 		if (perf != sum) {
-			oPut = (perf + " is not perfect number");
+			oPut = (perf + " is not a perfect number");
 		}
 
 		System.out.println(oPut);
